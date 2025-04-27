@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @bahardns<br>I’m interested in frontend<br>I’m currently learning on java.<br>
+Hi, I’m @bahardns<br>I’m interested in frontend<br>I’m currently learning on ai.<br>
 
 
 ## 🌐 Socials:
